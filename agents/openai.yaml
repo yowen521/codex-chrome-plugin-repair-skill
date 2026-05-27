@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Chrome Plugin Repair"
+  short_description: "Diagnose Browser and Chrome plugin install, connection, and @chrome control issues on Windows."
+  default_prompt: "Diagnose and repair my Codex Browser or Chrome plugin connection."
